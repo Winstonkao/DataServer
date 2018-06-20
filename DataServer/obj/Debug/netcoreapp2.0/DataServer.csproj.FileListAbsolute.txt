@@ -1,0 +1,8 @@
+D:\Code\DataServer\DataServer\bin\Debug\netcoreapp2.0\DataServer.deps.json
+D:\Code\DataServer\DataServer\bin\Debug\netcoreapp2.0\DataServer.runtimeconfig.json
+D:\Code\DataServer\DataServer\bin\Debug\netcoreapp2.0\DataServer.runtimeconfig.dev.json
+D:\Code\DataServer\DataServer\bin\Debug\netcoreapp2.0\DataServer.dll
+D:\Code\DataServer\DataServer\obj\Debug\netcoreapp2.0\DataServer.csprojAssemblyReference.cache
+D:\Code\DataServer\DataServer\obj\Debug\netcoreapp2.0\DataServer.csproj.CoreCompileInputs.cache
+D:\Code\DataServer\DataServer\obj\Debug\netcoreapp2.0\DataServer.AssemblyInfoInputs.cache
+D:\Code\DataServer\DataServer\obj\Debug\netcoreapp2.0\DataServer.AssemblyInfo.cs
